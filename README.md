@@ -41,13 +41,17 @@
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="https://via.placeholder.com/250x500.png/00a2ff/ffffff?text=Screenshot+1" width="22%" /> &nbsp;
-  <img src="https://via.placeholder.com/250x500.png/00ff88/ffffff?text=Screenshot+2" width="22%" /> &nbsp;
-  <img src="https://via.placeholder.com/250x500.png/ffb300/ffffff?text=Screenshot+3" width="22%" /> &nbsp;
-  <img src="https://via.placeholder.com/250x500.png/181717/ffffff?text=Screenshot+4" width="22%" />
+  <img src="https://raw.githubusercontent.com/M41NUL/DevEditor-Pro/main/Image/Screenshot_20260324-223042.jpg" width="32%" />
+  <img src="https://raw.githubusercontent.com/M41NUL/DevEditor-Pro/main/Image/Screenshot_20260324-223621.jpg" width="32%" />
+  <img src="https://raw.githubusercontent.com/M41NUL/DevEditor-Pro/main/Image/Screenshot_20260324-223626.jpg" width="32%" />
+  <br/><br/>
+  <img src="https://raw.githubusercontent.com/M41NUL/DevEditor-Pro/main/Image/Screenshot_20260324-230136.jpg" width="32%" />
+  <img src="https://raw.githubusercontent.com/M41NUL/DevEditor-Pro/main/Image/Screenshot_20260324-230139.jpg" width="32%" />
 </div>
 
-<br/>
+<p align="center">
+  <i>DevEditor Pro in action - Code editor, file manager, live preview & themes</i>
+</p>
 
 ---
 
